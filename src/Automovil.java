@@ -6,6 +6,7 @@ public class Automovil {
      String marca;
      String modelo;
 
+     //Definimos el contructor.
     public Automovil(String marca, String modelo, Integer anio, Double precio, String tipo){
         this.marca = marca;
         this.modelo = modelo;
